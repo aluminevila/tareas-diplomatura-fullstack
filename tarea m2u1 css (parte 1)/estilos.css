@@ -62,3 +62,8 @@ form {
 #borrar:hover {
     background-color: lightcoral;
 }
+
+/* background: rgba(0,155,255,0.47);
+background: linear-gradient(278deg,rgba(0,155,255,0.47) 0%, #27a2c3 80%);
+background: -webkit-linear-gradient(278deg,rgba(0,155,255,0.47) 0%, #27a2c3 80%);
+background: -moz-linear-gradient(278deg,rgba(0,155,255,0.47) 0%, #27a2c3 80%); */
